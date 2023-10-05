@@ -2,8 +2,8 @@
 - 🌱 Aprendendo **Desenvolvimento Android (Kotlin)**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=danfcorrea&show_icons=true&theme=react&locale=en" alt="danfcorrea" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danfcorrea&show_icons=true&theme=react&locale=en&layout=compact" alt="danfcorrea" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=danfcorrea&show_icons=true&theme=dracula&locale=pt-br&border_color=dd6387&rank_icon=github&include_all_commits=true" alt="danfcorrea" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danfcorrea&show_icons=true&theme=dracula&locale=pt-br&layout=compact&border_color=dd6387" alt="danfcorrea" />
 </div>
 
 ##
