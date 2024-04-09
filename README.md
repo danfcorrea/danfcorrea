@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Daniel Corrêa
-- 🌱 Aprendendo **Desenvolvimento Android (Kotlin)**
+- 🌱 **Desenvolvimento Android (Kotlin)**
 
 <div>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=danfcorrea&show_icons=true&theme=dracula&locale=pt-br&hide_border=true&rank_icon=github" alt="danfcorrea" />
